@@ -1,4 +1,4 @@
 # next-portfolio
 nextJS course portfolio application... Static webpage
-#(Not deployed here) URL: https://nextjs.davidhanlon23.now.sh
-Deployed URL: https://out.davidhanlon23.now.sh/
+Deployed Production URL: https://next-portfolio.davidhanlon23.now.sh/
+Alias URL: https://next-portfolio-fpvbpnm0c.now.sh/
